@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.sunmeplz.cmlideaplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
